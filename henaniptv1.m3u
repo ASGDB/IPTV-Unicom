@@ -183,6 +183,10 @@ http://192.168.100.1:8188/rtp/225.1.4.193:1243
 http://192.168.100.1:8188/rtp/225.1.4.112:1292
 #EXTINF:-1 tvg-name="镇平电视台" group-title="河南地方频道",镇平电视台
 http://192.168.100.1:8188/rtp/225.1.5.24:1336
+#EXTINF:-1 tvg-name="方城综合" group-title="河南地方频道",方城综合
+http://192.168.100.1:5678/rtp/225.1.5.92:1402
+#EXTINF:-1 tvg-name="唐河综合" group-title="河南地方频道",唐河综合
+http://192.168.100.1:5678/rtp/225.1.5.93:1403
 #EXTINF:-1 tvg-name="健康中原" tvg-logo="https://epg.v1.mk/logo/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png" group-title="河南地方频道",健康中原
 http://192.168.100.1:8188/rtp/225.1.5.48:1358
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视剧场频道",CHC动作电影
