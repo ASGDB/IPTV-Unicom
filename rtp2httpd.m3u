@@ -183,6 +183,10 @@ rtp://225.1.4.193:1243?fcc=10.254.216.130:8027
 rtp://225.1.4.112:1292?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="镇平电视台" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226578/183703875.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",镇平电视台
 rtp://225.1.5.24:1336?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="方城综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226634/422181846.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",方城综合
+rtp://225.1.5.92:1402?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="唐河综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226647/422181641.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",唐河综合
+rtp://225.1.5.93:1403?fcc=10.254.216.130:8027
 
 #EXTINF:-1 tvg-name="许昌综合频道" tvg-logo="https://epg.v1.mk/logo/%E8%AE%B8%E6%98%8C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225847/10000100000000060000000000154442_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",许昌综合频道
 rtsp://10.254.216.130/PLTV/88888888/224/3221225847/10000100000000060000000000154442_0.smil
