@@ -267,5 +267,3 @@ http://192.168.100.1:8188/rtp/225.1.4.184:1224
 http://192.168.100.1:8188/rtp/225.1.4.200:1250
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="体育音乐",爱体育
 http://192.168.100.1:8188/rtp/225.1.4.168:1220
-#EXTINF:-1 tvg-name="乒羽频道" tvg-logo="https://epg.v1.mk/logo/%E4%B9%92%E7%BE%BD%E9%A2%91%E9%81%93.png" group-title="体育音乐",乒羽频道
-http://192.168.100.1:8188/rtp/225.1.4.210:1263
