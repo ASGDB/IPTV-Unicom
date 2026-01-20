@@ -208,8 +208,8 @@ rtsp://10.253.12.134/PLTV/88888888/224/3221225831/100001000000000600000000001544
 rtsp://10.253.12.134/PLTV/88888888/224/3221225830/10000100000000060000000000154401_0.smil
 #EXTINF:-1 tvg-name="郑州市教育电视台" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226433/10000100000000060000000000592640_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州市教育电视台
 rtsp://10.253.12.134/PLTV/88888888/224/3221226433/10000100000000060000000000592640_0.smil
-#EXTINF:-1 tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新密综合
-rtsp://10.253.12.134/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil
+#EXTINF:-1 tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226475/10000100000000060000000004565607_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新密综合
+rtsp://10.253.12.134/PLTV/88888888/224/3221226475/10000100000000060000000004565607_0.smil
 #EXTINF:-1 tvg-name="登封综合" tvg-logo="https://epg.v1.mk/logo/%E7%99%BB%E5%B0%81%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226514/10000100000000060000000004529695_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",登封综合
 rtsp://10.253.12.134/PLTV/88888888/224/3221226514/10000100000000060000000004529695_0.smil
 #EXTINF:-1 tvg-name="中牟综合" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E7%89%9F%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226482/10000100000000060000000004565606_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中牟综合
