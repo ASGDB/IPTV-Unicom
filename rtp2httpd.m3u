@@ -39,7 +39,7 @@ rtp://225.1.5.65:1375?fcc=10.254.216.130:8027
 rtp://225.1.5.31:1342?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226584/186798824.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4中文国际美洲
 rtp://225.1.5.32:1343?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225620/10000100000000060000000000009743_0.smil.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225620/10000100000000060000000000009743_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
 rtp://225.1.4.16:1045?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226577/186798828.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英语
 rtp://225.1.5.34:1344?fcc=10.254.216.130:8027
