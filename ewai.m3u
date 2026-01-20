@@ -18,7 +18,7 @@ http://192.168.110.1:5678/rtp/225.1.4.147:1183?fcc=10.254.216.130:8027
 http://192.168.110.1:5678/rtp/225.1.4.149:1185?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="郑州市教育电视台" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/PLTV/88888888/224/3221226433/10000100000000060000000000592640_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州市教育电视台
 http://192.168.110.1:5678/rtp/225.1.4.191:1241?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新密综合
+#EXTINF:-1 tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/PLTV/88888888/224/3221226475/10000100000000060000000004565607_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新密综合
 http://192.168.110.1:5678/rtp/225.1.4.239:1285?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="登封综合" tvg-logo="https://epg.v1.mk/logo/%E7%99%BB%E5%B0%81%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/PLTV/88888888/224/3221226514/10000100000000060000000004529695_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",登封综合
 http://192.168.110.1:5678/rtp/225.1.4.240:1286?fcc=10.254.216.130:8027
