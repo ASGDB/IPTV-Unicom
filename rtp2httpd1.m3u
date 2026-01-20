@@ -295,3 +295,5 @@ rtp://225.1.4.184:1224?fcc=10.253.12.134:8027
 rtp://225.1.4.200:1250?fcc=10.253.12.134:8027
 #EXTINF:-1 tvg-name="爱体育高清" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225909/10000100000000060000000000273213_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱体育高清
 rtp://225.1.4.168:1220?fcc=10.253.12.134:8027
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225656/10000100000000060000000000009727_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱体育
+rtp://225.1.4.5:1034?fcc=10.253.12.134:8027
