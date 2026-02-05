@@ -167,8 +167,6 @@ rtp://225.1.4.99:1128?fcc=10.254.216.130:8027&fec=1127
 rtp://225.1.4.101:1130?fcc=10.254.216.130:8027&fec=1129
 #EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226555/186808475.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南移动电视
 rtp://225.1.5.40:1350?fcc=10.254.216.130:8027&fec=1349
-#EXTINF:-1 tvg-name="导视" tvg-logo="https://epg.v1.mk/logo/%E5%AF%BC%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226658/284611877.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",导视
-rtp://225.1.4.194:1244?fcc=10.254.216.130:8027&fec=1243
 #EXTINF:-1 tvg-name="南阳新闻综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225858/10000100000000060000000000154950_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳新闻综合
 rtp://225.1.4.114:1143?fcc=10.254.216.130:8027&fec=1142
 #EXTINF:-1 tvg-name="南阳公共频道" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225859/10000100000000060000000000154949_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳公共频道
@@ -283,8 +281,6 @@ rtp://225.1.4.182:1231?fcc=10.254.216.130:8027&fec=1230
 rtp://225.1.4.176:1225?fcc=10.254.216.130:8027&fec=1224
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力时尚.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226424/10000100000000060000000000756291_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
 rtp://225.1.4.205:1253?fcc=10.254.216.130:8027&fec=1252
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中华特产.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226581/230420492.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中华特产
-rtp://225.1.5.19:1330?fcc=10.254.216.130:8027&fec=1329
 #EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226431/10000100000000060000000000756292_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱综艺
 rtp://225.1.4.204:1252?fcc=10.254.216.130:8027&fec=1251
 #EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225963/10000100000000060000000000273229_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",军事
