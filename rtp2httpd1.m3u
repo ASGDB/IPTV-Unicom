@@ -169,12 +169,8 @@ rtp://225.1.4.101:1130?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1129
 rtp://225.1.5.40:1350?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1349
 #EXTINF:-1 tvg-name="南阳新闻综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225858/10000100000000060000000000154950_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳新闻综合
 rtp://225.1.4.114:1143?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1142
-#EXTINF:-1 tvg-name="南阳公共频道" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225859/10000100000000060000000000154949_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳公共频道
-rtp://225.1.4.115:1144?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1143
 #EXTINF:-1 tvg-name="南阳科教频道" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225860/10000100000000060000000000154948_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳科教频道
 rtp://225.1.4.116:1145?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1144
-#EXTINF:-1 tvg-name="南阳图文信息" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221225861/10000100000000060000000000154947_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳图文信息
-rtp://225.1.4.117:1146?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1145
 #EXTINF:-1 tvg-name="邓州新闻" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226455/10000100000000060000000003302818_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",邓州新闻
 rtp://225.1.4.193:1243?fcc=10.253.12.134:8027&fcc-type=huawei&fec=1242
 #EXTINF:-1 tvg-name="淅川综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.253.12.134/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",淅川综合
