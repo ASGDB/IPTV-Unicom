@@ -31,7 +31,7 @@ rtp://225.1.4.113:1293?fcc=10.254.216.130:8027&fcc-type=huawei&fec=1292
 rtp://225.1.4.80:1109?fcc=10.254.216.130:8027&fcc-type=huawei&fec=1108
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV15
 rtp://225.1.4.216:1269?fcc=10.254.216.130:8027&fcc-type=huawei&fec=1268
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16
 rtp://225.1.5.102:1412?fcc=10.254.216.130:8027&fcc-type=huawei&fec=1268
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226451/10000100000000060000000002754622_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV17
 rtp://225.1.4.226:2506?fcc=10.254.216.130:8027&fcc-type=huawei&fec=2505
